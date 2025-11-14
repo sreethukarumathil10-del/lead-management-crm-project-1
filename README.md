@@ -34,6 +34,18 @@ This project simulates how a small business tracks leads, manages follow-ups, an
 - `screenshots/` — Trello board, HubSpot pipeline, Excel dashboard images  
 - `README.md` — this file
 
+- ## 📸 Screenshots
+
+### Trello Board
+![Trello Board](trello_board.png)
+
+### HubSpot Pipeline
+![HubSpot Pipeline](hubspot_pipeline.png)
+
+### Excel Dashboard
+![Excel Dashboard](excel_dashboard.png)
+
+
 ---
 
 ## 📈 Results
